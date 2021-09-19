@@ -100,7 +100,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
   
 ### thanks for your help and support guys
-    `saidalli, amal ser, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, plk`
+    `saidalli, amal ser, Anees, ichu, karthik, lyf, farhan, ihsan, hyper, muhsin, sahal, cherry 🥰🥰, plk`
 
 ### when forking 
 ```
